@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManideepDs&layout=compact)](https://github.com/ManideepDs/github-readme-stats)
 
-![Manideep's github stats](https://github-readme-stats.vercel.app/api?username=ManideepDs&hide=contribs&show_icons=true,prs)
+![Manideep's github stats](https://github-readme-stats.vercel.app/api?username=ManideepDs&hide=contribs&show_icons=true&hide_border=true,prs)
 
 
 
