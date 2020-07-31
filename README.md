@@ -12,6 +12,7 @@
 ### Connet with me:
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerearth.svg" />][HackerEarth]
+[<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerrank.svg" />][HackerRank]
 
 
 <br />
@@ -24,3 +25,4 @@
 
 [linkedin]: https://www.linkedin.com/in/manideep77/
 [HackerEarth]: https://www.hackerearth.com/@kmanideep77
+[HackerRank]: https://www.hackerrank.com/kmanideep77
