@@ -1,6 +1,4 @@
 ### Hello! I'm Manideep, a Data Science enthusiast and passionate learner.
-
-
 - 🔭 I’m currently working on
   - Data Visualization
   - Machine Learning 
