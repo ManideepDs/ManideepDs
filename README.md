@@ -30,6 +30,3 @@
 [linkedin]: https://www.linkedin.com/in/manideep77/
 [HackerEarth]: https://www.hackerearth.com/@kmanideep77
 [HackerRank]: https://www.hackerrank.com/kmanideep77
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ManideepDs&theme=cobalt&repo=github-readme-stats)](https://github.com/ManideepDs/github-readme-stats)
