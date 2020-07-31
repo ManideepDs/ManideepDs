@@ -13,7 +13,7 @@
 ### Connet with me 
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br>
+<br />
 
 ![Manideep's github stats](https://github-readme-stats.vercel.app/api?username=ManideepDs&hide=contribs&show_icons=true&hide_border=true,prs)
 
