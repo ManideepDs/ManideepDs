@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on anlysis of data posted on Tidy Tuesday - a weekly data project in R
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManideepDs)](https://github.com/ManideepDs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManideepDs&layout=compact)](https://github.com/ManideepDs/github-readme-stats)
 
 ![Manideep's github stats](https://github-readme-stats.vercel.app/api?username=ManideepDs&hide=contribs&show_icons=true,prs)
 
