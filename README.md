@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other data analyst to analyze data posted on Tidy Tuesday - a weekly data project in R
 
 
-### Connect with me:
+## Connect with me:
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Manideep K | Hacker Earth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerearth.svg" />][HackerEarth]
 [<img align="left" alt="Manideep K | Hacker Rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerrank.svg" />][HackerRank]
