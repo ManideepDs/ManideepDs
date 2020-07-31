@@ -10,6 +10,7 @@
 
 - 👯 I’m looking to collaborate on anlysis of data posted on Tidy Tuesday - a weekly data project in R
 
+![Manideep's github stats](https://github-readme-stats.vercel.app/api?username=ManideepDs&hide=contribs&show_icons=true,prs)
 
 
 
