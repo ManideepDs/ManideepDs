@@ -9,10 +9,10 @@
 - 👯 I’m looking to collaborate with other data analyst to analyze data posted on Tidy Tuesday - a weekly data project in R
 
 
-### Connet with me:
+### Connect with me:
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerearth.svg" />][HackerEarth]
-[<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerrank.svg" />][HackerRank]
+[<img align="left" alt="Manideep K | Hacker Earth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerearth.svg" />][HackerEarth]
+[<img align="left" alt="Manideep K | Hacker Rank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerrank.svg" />][HackerRank]
 
 
 <br />
@@ -26,6 +26,8 @@
 
 ![Manideep's github stats](https://github-readme-stats.vercel.app/api?username=ManideepDs&hide=contribs&show_icons=true&hide_border=true,prs)
 
+## Reach out to me on
+:e-mail: kmanideep77@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/manideep77/
 [HackerEarth]: https://www.hackerearth.com/@kmanideep77
