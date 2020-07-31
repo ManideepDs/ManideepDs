@@ -1,10 +1,13 @@
 ### Hello! I'm Manideep, a Data Science enthusiast and passionate learner.
 
 
-- 🔭 I’m currently working on data visualizations using
-  - R
-  - Python
-  - Abode illustrator
+- 🔭 I’m currently working on
+  - Data Visualization
+  - Machine Learning 
+  - Building interactive web applications using R-shiny
+  
+- 🌱 I’m currently learning Deep Learning and Artificial intelligence
+
 
 <!--
 **ManideepDs/ManideepDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
