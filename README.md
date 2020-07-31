@@ -8,6 +8,10 @@
   
 - 🌱 I’m currently learning Deep Learning and Artificial intelligence
 
+- 👯 I’m looking to collaborate on anlysis of data posted on Tidy Tuesday - a weekly data project in R
+
+
+
 
 <!--
 **ManideepDs/ManideepDs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
