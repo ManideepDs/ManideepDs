@@ -8,6 +8,8 @@
 
 - 👯 I’m looking to collaborate with other data analyst to analyze data posted on Tidy Tuesday - a weekly data project in R
 
+## Please feel free review my financial analytics Shiny App.
+https://manideep.shinyapps.io/FinancialAnalytics/
 
 ## Connect with me:
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
