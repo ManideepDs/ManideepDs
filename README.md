@@ -6,9 +6,8 @@
   
 - 🌱 I’m currently learning Deep Learning and Artificial intelligence
 
-- 👯 I’m looking to collaborate with other data analyst to analyze data posted on Tidy Tuesday - a weekly data project in R
 
-## Please feel free review my financial analytics Shiny App.
+## Please feel free to review my financial analytics Shiny App.
 https://manideep.shinyapps.io/FinancialAnalytics/
 
 ## Connect with me:
