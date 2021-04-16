@@ -12,7 +12,8 @@ https://manideep.shinyapps.io/FinancialAnalytics/
 
 ## Certifications
 [<img align="left" alt="AWS Cloud Practitioner" src = "https://github.com/ManideepDs/images/blob/main/aws-certified-cloud-practitioner.png?raw=true"/>][AWS]   
-
+[<img align="left" alt="Microsoft Excel 2016" src = "https://github.com/ManideepDs/images/blob/main/microsoft-excel-office-2016.png?raw=true"/>][EXCEL]  
+<br />
 
 ## Connect with me:
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,3 +37,4 @@ https://manideep.shinyapps.io/FinancialAnalytics/
 [HackerEarth]: https://www.hackerearth.com/@kmanideep77
 [HackerRank]: https://www.hackerrank.com/kmanideep77
 [AWS]: https://www.credly.com/badges/d53dff14-6cec-41eb-b53a-754f2daf9f7d/public_url
+[EXCEL]: https://www.credly.com/badges/f80f1da0-2493-4127-81e9-08f08b747c8f/public_url
