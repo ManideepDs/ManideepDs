@@ -13,6 +13,7 @@ https://manideep.shinyapps.io/FinancialAnalytics/
 ## Certifications
 [<img align="left" alt="AWS Cloud Practitioner" src = "https://github.com/ManideepDs/images/blob/main/aws-certified-cloud-practitioner.png?raw=true"/>][AWS]   
 [<img align="left" alt="Microsoft Excel 2016" src = "https://github.com/ManideepDs/images/blob/main/microsoft-excel-office-2016.png?raw=true"/>][EXCEL]  
+
 <br />
 
 ## Connect with me:
