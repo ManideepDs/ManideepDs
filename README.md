@@ -10,6 +10,10 @@
 ## Please feel free to review my financial analytics Shiny App.
 https://manideep.shinyapps.io/FinancialAnalytics/
 
+## Certifications
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d53dff14-6cec-41eb-b53a-754f2daf9f7d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>]
+
+
 ## Connect with me:
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Manideep K | Hacker Earth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/hackerearth.svg" />][HackerEarth]
