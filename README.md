@@ -11,7 +11,7 @@
 https://manideep.shinyapps.io/FinancialAnalytics/
 
 ## Certifications
-[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d53dff14-6cec-41eb-b53a-754f2daf9f7d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>]
+[<img align="left" alt="AWS Cloud Practitioner" src = "https://github.com/ManideepDs/images/blob/main/aws-certified-cloud-practitioner.png?raw=true"/>][AWS]
 
 
 ## Connect with me:
@@ -35,3 +35,4 @@ https://manideep.shinyapps.io/FinancialAnalytics/
 [linkedin]: https://www.linkedin.com/in/manideep77/
 [HackerEarth]: https://www.hackerearth.com/@kmanideep77
 [HackerRank]: https://www.hackerrank.com/kmanideep77
+[AWS]: https://www.credly.com/badges/d53dff14-6cec-41eb-b53a-754f2daf9f7d/public_url
