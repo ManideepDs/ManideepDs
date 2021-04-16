@@ -17,7 +17,15 @@ https://manideep.shinyapps.io/FinancialAnalytics/
 <br/>  
 <br/> 
 <br/> 
-
+<br/>  
+<br/> 
+<br/>
+<br/>  
+<br/> 
+<br/>
+<br/>  
+<br/> 
+<br/>
 
 ## Connect with me:
 [<img align="left" alt="Manideep K | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
