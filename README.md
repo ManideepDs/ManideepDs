@@ -15,7 +15,8 @@ https://manideep.shinyapps.io/FinancialAnalytics/
 [<img align="left" alt="Microsoft Excel 2016" src = "https://github.com/ManideepDs/images/blob/e9eb5a4632bab4b93638d9b956c6818a811b066c/microsoft-excel-office-2016.png"/>][EXCEL]
 
 <br/>  
-
+<br/> 
+<br/> 
 
 
 ## Connect with me:
